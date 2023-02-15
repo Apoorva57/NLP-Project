@@ -1,7 +1,7 @@
 <h1 align="center"> NLP Project </h1> <br>
 
 <p align="center">
-  <a href="https://github.com/Apoorva57/ML-Projects/tree/main/NLP%20Project">
+  <a href="https://github.com/Apoorva57/NLP-Project">
     <img alt="NLP" title="NLP" src="https://user-images.githubusercontent.com/97695341/195971438-b44982d0-0663-47c6-bda6-ed4d7f9a0431.gif" width="450">
   </a>
 </p>
